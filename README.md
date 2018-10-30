@@ -1,2 +1,3 @@
-# hello-world_test
-uploading sample java code from ValaxyTech 
+# maven-project
+
+Simple Maven Project
